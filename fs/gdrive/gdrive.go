@@ -7,9 +7,9 @@ import (
 	"fmt"
 	"os"
 
-	drv "github.com/fclairamb/afero-gdrive"
-	drvoa "github.com/fclairamb/afero-gdrive/oauthhelper"
 	log "github.com/fclairamb/go-log"
+	drv "github.com/hieu-pv/afero-gdrive"
+	drvoa "github.com/hieu-pv/afero-gdrive/oauthhelper"
 	"github.com/spf13/afero"
 	"golang.org/x/oauth2"
 

@@ -8,7 +8,6 @@ require (
 	github.com/aws/aws-lambda-go v1.13.3 // indirect
 	github.com/aws/aws-sdk-go v1.44.47
 	github.com/fclairamb/afero-dropbox v0.1.0
-	github.com/fclairamb/afero-gdrive v0.3.0
 	github.com/fclairamb/afero-s3 v0.3.1
 	github.com/fclairamb/afero-snd v0.1.0
 	github.com/fclairamb/ftpserverlib v0.18.0
@@ -17,6 +16,7 @@ require (
 	github.com/go-sql-driver/mysql v1.4.0 // indirect
 	github.com/hashicorp/go-version v1.2.0 // indirect
 	github.com/hashicorp/go.net v0.0.1 // indirect
+	github.com/hieu-pv/afero-gdrive v0.3.3
 	github.com/lightstep/lightstep-tracer-go v0.18.1 // indirect
 	github.com/mitchellh/gox v0.4.0 // indirect
 	github.com/mitchellh/iochan v1.0.0 // indirect
@@ -40,5 +40,5 @@ require (
 
 // replace github.com/fclairamb/ftpserverlib => /Users/florent/go/src/github.com/fclairamb/ftpserverlib
 // replace github.com/fclairamb/afero-s3 => /Users/florent/go/src/github.com/fclairamb/afero-s3
-// replace github.com/fclairamb/afero-gdrive => /Users/florent/go/src/github.com/fclairamb/afero-gdrive
+// replace github.com/hieu-pv/afero-gdrive => /Users/florent/go/src/github.com/hieu-pv/afero-gdrive
 // replace github.com/fclairamb/afero-snd => /Users/florent/go/src/github.com/fclairamb/afero-snd
